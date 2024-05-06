@@ -1,4 +1,5 @@
 # Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Date: 28.02.2024
 # AIM:
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM:
